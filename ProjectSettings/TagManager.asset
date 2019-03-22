@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Beetle
+  - Hornet
+  - Smashed
+  - Walls
+  - Save
+  - Ball
+  - Hint
+  - Obstacle
+  - Spindle
+  - faketarget
+  - LevelSelectionUI
+  - InvincibleCollider
+  - TypeCollider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Insects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: smashed
+    uniqueID: 3812152489
+    locked: 0
+  - name: insects
+    uniqueID: 2187572533
+    locked: 0

@@ -1,0 +1,65 @@
+###
+# Unity folders and files
+###
+[Aa]ssets/AssetStoreTools*
+[Bb]uild/
+[Ll]ibrary/
+[Ll]ocal[Cc]ache/
+[Oo]bj/
+[Tt]emp/
+[Uu]nityGenerated/
+# file on crash reports
+sysinfo.txt
+# Unity3D generated meta files
+*.pidb.meta
+
+###
+# VS/MD solution and project files
+###
+[Ee]xportedObj/
+*.booproj
+*.csproj
+*.sln
+*.suo
+*.svd
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+.DS_Store
+
+
+###
+# OS generated
+###
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+.vs/
+*.apk
+*.exe
+test/
+UnityPackageManager/
+Assets/UnityPackageManager/manifest.json
+Assets/UETools/
+Assets/UETools*
+Assets/Resonai/
+Assets/Resonai*
+Assets/QuickSheet/Editor/*
+Assets/Data/Editor/*
+Assets/QuickSheet/Example/*
+Assets/QuickSheet/ExcelPlugin/Editor/*
+Assets/QuickSheet/GDataPlugin/Editor/*
+Assets/Data/Editor.meta
+Assets/QuickSheet/Editor.meta
+Assets/QuickSheet/Example.meta
+Assets/QuickSheet/ExcelPlugin/Editor.meta
+Assets/QuickSheet/GDataPlugin/Editor.meta
+*.obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+
+iOS_AntStrike
